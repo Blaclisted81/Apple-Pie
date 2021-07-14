@@ -10,7 +10,7 @@ import UIKit
 class ViewController: UIViewController {
 
     //MARK - Variables
-    var listOfWords = ["baccaneer","swift","glorious","incandescent","bug","program"]
+    var listOfWords = ["buccaneer","swift","glorious","incandescent","bug","program"]
     
     let incorrectMovesAllowed = 7
     
